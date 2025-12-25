@@ -29,10 +29,10 @@ The recommendation engine is built using **Collaborative Filtering**.
 └── static/             # CSS & Image assets
 
 INSTALLATION AND SETUP:
-> git clone [https://github.com/YOUR_USERNAME/Book-Recommender-System.git](https://github.com/YOUR_USERNAME/Book-Recommender-System.git)
-> pip install -r requirements.txt
-> python app.py
-> Open your browser and go to thw given http
+- git clone [https://github.com/YOUR_USERNAME/Book-Recommender-System.git](https://github.com/YOUR_USERNAME/Book-Recommender-System.git)
+- pip install -r requirements.txt
+- python app.py
+- Open your browser and go to thw given http
 
 
 
